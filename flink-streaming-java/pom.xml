@@ -83,6 +83,7 @@ under the License.
 						</excludes>
 					</parameter>
 				</configuration>
+				<version>0.15.3</version>
 			</plugin>
 
 			<!-- disable fork reuse for the streaming project, because of

@@ -97,6 +97,7 @@ under the License.
 			<plugin>
 				<groupId>com.github.siom79.japicmp</groupId>
 				<artifactId>japicmp-maven-plugin</artifactId>
+				<version>0.15.3</version>
 			</plugin>
 
 			<!-- publish some test base classes -->

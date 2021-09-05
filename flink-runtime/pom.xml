@@ -378,6 +378,7 @@ under the License.
 						</configuration>
 					</execution>
 				</executions>
+				<version>3.0.0</version>
 			</plugin>
 
 			<!-- Scala Code Style, most of the configuration done via plugin management -->
